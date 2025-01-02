@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 0.75em auto;
+    background-image: url("../Images/pattern.webp")
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+article.brushes h2 {
+    background-color: mediumspringgreen
+}
+
+article.frames h2 {
+    background-color: lightcoral;
+}
+
+article.paint h2 {
+    background-color: skyblue;
+}
+
+a.productlink {
+    font-weight: bold;
+    color: blue
+}
+
+a {
+    text-decoration: none;
+}

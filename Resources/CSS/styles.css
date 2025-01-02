@@ -17,15 +17,15 @@ h2 {
     color: white;
 }
 
-article.brushes h2 {
+section.brushes h2 {
     background-color: mediumspringgreen
 }
 
-article.frames h2 {
+section.frames h2 {
     background-color: lightcoral;
 }
 
-article.paint h2 {
+section.paint h2 {
     background-color: skyblue;
 }
 
@@ -34,6 +34,7 @@ a.productlink {
     color: blue
 }
 
+/* text-decoration property didn't want to play nicely in the a.productlink rule */
 a {
     text-decoration: none;
 }

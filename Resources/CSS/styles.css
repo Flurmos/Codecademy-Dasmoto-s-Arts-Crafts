@@ -31,10 +31,7 @@ section.paint h2 {
 
 a.productlink {
     font-weight: bold;
-    color: blue
-}
-
-/* text-decoration property didn't want to play nicely in the a.productlink rule */
-a {
+    color: blue;
     text-decoration: none;
 }
+
